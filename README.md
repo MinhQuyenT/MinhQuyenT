@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello everybody 👋, I'm Tran Minh Quyen</h1>
-<h3 align="center">📘 Currently studying on BETU</h3>
+<h3 align="center">📘 Currently Working on Shyang Hung Cheng</h3>
 <h3 align="center">✍️ Making some projects using JavaScript, Dotnet, Angular, . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
