@@ -4,7 +4,7 @@
     <style>
       * {
         margin: 0;
-        padding: 0;
+        <!-- padding: 0; -->
         color: inherit;
         text-decoration: none;
         list-style: none;
@@ -195,10 +195,10 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Website Developer at <a href="https://www.ssbshoes.com/">Shyang Hung Cheng Co. Ltd, Shyang Shin Bao Group</a></li>
+            <li>Developer at <a href="https://www.ssbshoes.com/">SHC Co. Ltd, SSB GROUP</a></li>
           </ul>
           <ul>
-            <li>Developer at <a href="https://vnsogroup.com/">VNSOGROUP</a></li>
+            <li>Developer at <a href="https://vnsogroup.com/">VNSO GROUP</a></li>
           </ul>
           <ul>
             <li><a href="https://www.topcv.vn/xem-cv/BABRXgZUAgYHVlNWA1MCVABRVw1RVVUGBgBSCA116e">My Resume</a></li>
