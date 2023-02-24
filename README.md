@@ -1,6 +1,4 @@
 
 <div style="width: 100%;">
-  <a href="https://github.com/MinhQuyenT/MinhQuyenT/blob/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
+  <img src="https://raw.githubusercontent.com/MinhQuyenT/MinhQuyenT/415041d8f8b4d5c654eaced8ce267f13caa57351/welcome.svg" style="width: 100%;" alt="Click to see the source">
 </div>
