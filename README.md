@@ -1,2 +1,6 @@
 
-<img  src="https://github.com/MinhQuyenT/MinhQuyenT/blob/main/welcome.svg" loading="lazy" alt="" id="ember105" >
+<div style="width: 100%;">
+  <a href="https://github.com/MinhQuyenT/MinhQuyenT/blob/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
