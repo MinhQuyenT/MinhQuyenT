@@ -1,5 +1,3 @@
-
-<h1 align="center">Hello everybody 👋, I'm Tran Minh Quyen</h1>
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
@@ -189,16 +187,16 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/MinhQuyenT">
+          <a href="https://github.com/minhquyent">
             <span><em>Minh Quyen</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li>Writer at <a href="">Pragmatic Pineapple</a></li>
           </ul>
           <ul>
-            <li>Software Engineer at <a href="https://www.topcv.vn/xem-cv/BABRXgZUAgYHVlNWA1MCVABRVw1RVVUGBgBSCA116e">Toptal</a></li>
+            <li>Software develop at <a href="https://www.topcv.vn/xem-cv/BABRXgZUAgYHVlNWA1MCVABRVw1RVVUGBgBSCA116e">SHC</a></li>
           </ul>
           <ul>
             <li>Organizer at <a href="https://novisadjs.org">Novi Sad JS</a></li>
